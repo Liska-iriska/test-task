@@ -1,3 +1,10 @@
+:root {
+  --color-whiteSmoke: #f5f5f5;
+  --color-header: #191970;
+  --color-clear-hover: rgba(245, 245, 245, 0.7);
+  --color-white: ;
+}
+
 body {
   font-family: var(--font-roboto), sans-serif;
   display: flex;
