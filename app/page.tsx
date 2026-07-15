@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main>
       <div className={css.container}>
-        <h1 className={css.title}>Welcome to NotesHub</h1>
+        <h1 className={css.title}>Welcome to NOTEShub</h1>
         <p className={css.description}>
           NoteHub is a simple and efficient application designed for managing
           personal notes. It helps keep your thoughts organized and accessible
