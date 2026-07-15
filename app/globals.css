@@ -2,7 +2,10 @@
   --color-whiteSmoke: #f5f5f5;
   --color-header: #191970;
   --color-clear-hover: rgba(245, 245, 245, 0.7);
-  --color-white: ;
+  --color-white: #ffffff;
+  --color-title: #212529;
+  --color-content: #495057;
+  --color-lightSkyBlue: #87cefa;
 }
 
 body {
