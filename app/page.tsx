@@ -6,15 +6,15 @@ export default function Home() {
       <div className={css.container}>
         <h1 className={css.title}>Welcome to NOTEStodo</h1>
         <p className={css.description}>
-          NoteHub is a simple and efficient application designed for managing
-          personal notes. It helps keep your thoughts organized and accessible
-          in one place, whether you are at home or on the go.
+          NOTEStodo is a lightweight and intuitive tool for capturing your daily
+          tasks and ideas. Stay on top of your to-do list and never miss an
+          important thought again, whether you are at your desk or on the move.
         </p>
         <p className={css.description}>
-          The app provides a clean interface for writing, editing, and browsing
-          notes. With support for keyword search and structured organization,
-          NoteHub offers a streamlined experience for anyone who values clarity
-          and productivity.
+          With a clean and distraction-free interface, NOTEStodo makes it easy
+          to create, edit, and organize your notes and tasks. Filter by
+          priority, search by keyword, and keep everything you need right at
+          your fingertips.
         </p>
       </div>
     </main>
